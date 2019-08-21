@@ -18,4 +18,4 @@ inline-asm = []
 jlink-quirks = []
 
 [dependencies]
-cortex-m = ">= 0.5.8, < 0.7"
+cortex-m = "0.6.1"
