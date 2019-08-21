@@ -5,6 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+- Merge `HStdout` and `HStderr` into one type: `HostStream`
 - Adds a feature to work around JLink quirks
 - Adds a dbg! macro using heprintln
 - Now Rust 2018 edition
